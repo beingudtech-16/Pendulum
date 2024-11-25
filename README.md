@@ -1,4 +1,4 @@
-# Flutter ToDo App
+# Flutter Pendulum: Steady rhythm for your tasks. App
 
 Balance your lifeand tasks with Pendulum—the to-do app that keeps you moving in rhythm. 
 With seamless organization and intuitive features, 
